@@ -1,0 +1,2 @@
+# nixies
+nixos configs fr
